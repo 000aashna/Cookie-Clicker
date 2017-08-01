@@ -1,0 +1,21 @@
+body{
+  background-image: url('https://i.pinimg.com/736x/ec/7f/6c/ec7f6cd09bf7e6698bcb18d6a373542d--watercolor-background-blue-planer.jpg');
+  text-align: center;
+}
+
+
+img {
+  width: 150px;
+  height: 150px;
+}
+
+img:hover {
+  width: 155px;
+  height: 155px;
+}
+
+button {
+  width: auto;
+  height: auto;
+  font-size: 17px;
+}
